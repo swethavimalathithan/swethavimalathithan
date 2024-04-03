@@ -4,7 +4,7 @@
   <a href = "https://www.linkedin.com/in/swetha-vimalathithan-3948b61ab/">Swetha's Linkedin</a>
 </p>
 <p>
-  <a href = "medium.com/@vimalathithanswetha">Swetha's Medium Blog</a>
+  <a href = "https://medium.com/@vimalathithanswetha">Swetha's Medium Blog</a>
 </p>
 
 
