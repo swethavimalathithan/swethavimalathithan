@@ -1,6 +1,4 @@
 ## Hi there I'm Swetha👋
-<img src="Welcome To My Profile.png" class="center" width=600 height=200/>
-
 ### Let's Connect :incoming_envelope:	
 <p>
   <a href = "https://www.linkedin.com/in/swetha-vimalathithan-3948b61ab/">Swetha's Linkedin</a>
